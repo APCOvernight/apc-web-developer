@@ -1,0 +1,5 @@
+"This script will **EVENTUALLY** do stuff like : "
+" "
+" * Create a code folder "
+" * Create SSH Keypair   "
+" * Install Homestead    "

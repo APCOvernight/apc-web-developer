@@ -1,0 +1,1 @@
+"This is the uninstall file - this file currently does nothing."

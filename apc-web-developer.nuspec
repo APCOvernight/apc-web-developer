@@ -20,6 +20,14 @@
     <dependencies>
       <dependency id="git.install" version="2.19.0" />
       <dependency id="nodejs.install" version="10.11.0" /> 
+      <dependency id="vscode" version="1.27.2" /> 
+      <dependency id="virtualbox" version="5.2.18" />   
+      <dependency id="vagrant" version="2.1.5" />    
+      <dependency id="vagrant" version="2.1.5" />    
+      <dependency id="gitkraken" version="4.0.2" />  
+      <dependency id="lastpass" version="4.1.59" /> 
+      <dependency id="lastpass" version="4.1.59" /> 
+      
       <dependency id="chocolatey-core.extension" version="1.1.0" />
     </dependencies>
   </metadata>

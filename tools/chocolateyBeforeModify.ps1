@@ -1,0 +1,1 @@
+"script to be run before updating / installing and uninstallation"
